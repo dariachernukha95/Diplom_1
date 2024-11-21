@@ -35,10 +35,3 @@ class TestBurger:
         burger = make_burger
         burger_receipt = burger.get_receipt()
         assert burger_receipt == BURGER_RECEIPT
-
-
-
-
-
-
-
